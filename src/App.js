@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import PortfolioCard from "./components/PortfolioCard";
+// import Navbar from "./components/Navbar";
+// import Footer from "./components/Footer";
+// import PortfolioCard from "./components/PortfolioCard";
 import logo from './logo.svg';
 import './App.css';
 
