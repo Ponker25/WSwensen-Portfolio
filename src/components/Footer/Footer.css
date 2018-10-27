@@ -47,3 +47,9 @@
     font-size: 26px;
     padding: 10px;
   }
+  .bottom-name:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    color: white;
+  }
