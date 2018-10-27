@@ -1,0 +1,147 @@
+[
+      {
+        "name": "Rent Keeper",
+        "image": "/public/images/RentKeeper.PNG",
+        "link": "www.rentkeeper.net",
+        "github": "https://github.com/Project3UofU/rent_app/tree/master/rent_app",
+        "tech": [
+          "React",
+          "Mongoose",
+          "Express",
+          "Heroku"
+        ],
+        "description": "Group Project. A landlord management app, to collect data from properties, and communicate with tenants."
+      },
+      {
+        "name": "Guest Key",
+        "image": "/public/images/GuestKey.PNG",
+        "link": "https://infinite-lowlands-27810.herokuapp.com/",
+        "github": "https://github.com/MCPolichette/Welcome2MyHome",
+        "tech": [
+          "HandleBars",
+          "QR-Generators",
+          "SQL",
+          "Heroku"
+        ],
+        "description": "Group Project. An app for homeowners to share basic information with house guests, sitters, and other visitors."
+      },
+      {
+        "name": "NFL Mascot Clicky Game",
+        "image": "/public/images/ClickyGame.PNG",
+        "link": "https://ponker25.github.io/Week-19-React-Clicky-Game/.",
+        "github": "https://github.com/Ponker25/Week-19-React-Clicky-Game.git",
+        "tech": [
+          "React"
+        ],
+        "description": "Learning to build front-end with this fun game."
+      },
+      {
+        "name": "Crystal Collector",
+        "image": "/public/images/Crystal-Collector.PNG",
+        "link": "https://ponker25.github.io/crystalCollector/.",
+        "github": "https://github.com/Ponker25/crystalCollector.git",
+        "tech": [
+          "JQuery"
+        ],
+        "description": "An early HTML build.  Fun game that randomizes numbers and images"
+      },
+      {
+        "name": "Bamazon",
+        "image": "/public/images/Bamazon.PNG",
+        "link": "",
+        "github": "https://github.com/Ponker25/Week12-bamazon.git",
+        "tech": [
+          "Node"
+        ],
+        "description": "A Node Amazon Clone!"
+      },
+      {
+        "name": "Commedian Giphy Search",
+        "image": "/public/images/Giphy-Search.PNG",
+        "link": "https://ponker25.github.io/giphyAPI/",
+        "github": "https://github.com/Ponker25/giphyAPI.git",
+        "tech": [
+          "Node",
+          "Bootstrap",
+          "Express"
+        ],
+        "description": "Giphy's API"
+      },
+      {
+        "name": "Psychic Game",
+        "image": "/public/images/Psychic-Game.PNG",
+        "link": "https://ponker25.github.io/Psychic-Game/",
+        "github": "https://github.com/Ponker25/Psychic-Game.git",
+        "tech": [
+          "JavaScript"
+        ],
+        "description": "Psychic Game"
+      },
+      {
+        "name": "Bond Trivia Game",
+        "image": "/public/images/Bond-Trivia.PNG",
+        "link": "https://ponker25.github.io/TriviaGame/",
+        "github": "https://github.com/Ponker25/TriviaGame.git",
+        "tech": [
+          "JQuery"
+        ],
+        "description": "A James Bond Movie trivia game"
+      },
+      {
+        "name": "Burger Mania",
+        "image": "/public/images/Burger-Mania.PNG",
+        "link": "https://sheltered-eyrie-46497.herokuapp.com/",
+        "github": "https://github.com/Ponker25/Week-14-burgers.git",
+        "tech": [
+          "MySQL",
+        ],
+        "description": "MySQL Fulle-Stack App"
+      },
+      {
+        "name": "New York Times Scraper",
+        "image": "/public/images/NewYorkTimes-Scraper.PNG",
+        "link": "https://glacial-river-86264.herokuapp.com/",
+        "github": "https://github.com/Ponker25/Week-18-Mongo-Mongoose.git",
+        "tech": [
+          "MongoDB",
+          "Mongoose",
+          "Node.js",
+          "Handelbars",
+          "express",
+          "Bootstrap"
+        ],
+        "description": "A New York Times Scraper, used to scrape the latest news articles from the New York Times"
+      },
+      {
+        "name": "Weather Box",
+        "image": "/public/images/Weather-Box.PNG",
+        "link": "https://tubashawn.github.io/weatherBox/",
+        "github": "https://github.com/tubashawn/weatherBox.git",
+        "tech": [
+          ""
+        ],
+        "description": "A simple weather & air quality look-up application"
+      }
+      {
+        "name": "Train Time",
+        "image": "/public/images/TrainTime.PNG",
+        "link": "https://ponker25.github.io/trainSchedule/",
+        "github": "https://github.com/Ponker25/trainSchedule.git",
+        "tech": [
+          ""
+        ],
+        "description": ""
+      },
+      {
+        "name": "Friend Finder",
+        "image": "/public/images/FriendFinder.PNG",
+        "link": "https://shielded-spire-66212.herokuapp.com/",
+        "github": "https://github.com/Ponker25/Week-13-FriendFinder.git",
+        "tech": [
+          "Node",
+          "Bootstrap",
+          "Express"
+        ],
+        "description": "A Friend Finder App Built Using Express!"
+      },
+]
