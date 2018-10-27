@@ -1,0 +1,24 @@
+nav.navbar.navbar-default {
+    margin-bottom: 0;
+    /* padding:10px; */
+    background: rgb(2, 52, 85);
+    }
+  
+  .navbar-brand {
+    font-size: 30px;
+    margin-left: 50px;
+    position: aboslute;
+    display: inline-block;
+    color: white;
+  }
+  
+  .portfolio {
+    font-size: 17px;
+    /* color: white; */
+    padding: 1px;
+    /* height: 100%; */
+    text-align: center;
+    background: lightgray;
+    height: 100%;
+    width: 100%;
+  }

@@ -1,7 +1,7 @@
 [
       {
         "name": "Rent Keeper",
-        "image": "/public/images/RentKeeper.PNG",
+        "image": "../public/images/RentKeeper.PNG",
         "link": "www.rentkeeper.net",
         "github": "https://github.com/Project3UofU/rent_app/tree/master/rent_app",
         "tech": [
@@ -14,7 +14,7 @@
       },
       {
         "name": "Guest Key",
-        "image": "/public/images/GuestKey.PNG",
+        "image": "GuestKey.PNG",
         "link": "https://infinite-lowlands-27810.herokuapp.com/",
         "github": "https://github.com/MCPolichette/Welcome2MyHome",
         "tech": [
@@ -56,7 +56,7 @@
         "link": "https://sheltered-eyrie-46497.herokuapp.com/",
         "github": "https://github.com/Ponker25/Week-14-burgers.git",
         "tech": [
-          "MySQL",
+          "MySQL"
         ],
         "description": "MySQL Fulle-Stack App"
       },
@@ -133,7 +133,7 @@
           ""
         ],
         "description": "A simple weather & air quality look-up application"
-      }
+      },
       {
         "name": "Train Time",
         "image": "/public/images/TrainTime.PNG",
