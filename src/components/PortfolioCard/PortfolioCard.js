@@ -8,7 +8,7 @@ const PortfolioCard = props => (
       value={props.id}
       onClick={props.mascotClick}
       >
-      <img alt={props.name} src={props.image} id={props.id}/>
+      <img alt={props.name} src={window.location + `/img/${props.image}`} />
       
     </div>
   
