@@ -8,11 +8,10 @@ const PortfolioCard = props => (
       value={props.id}
       onClick={props.mascotClick}
       >
-      <img alt={props.name} src={window.location + `/img/${props.image}`} />
+      <img alt={props.name} src={window.location + `images/${props.image}`} />
       
     </div>
   
-    {/* <span   onClick={() => props.shuffleMascot(props.id)} className="shuffleMascot"></span> */}
   </div>
 );
 

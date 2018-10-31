@@ -1,8 +1,9 @@
 .card {
     border-radius: 40px;
-    height: 200px;
+    height: 9em;
     margin: 1rem;
     position: relative;
+    display: inline-block;
     width: 200px;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
     text-align: left;
@@ -22,8 +23,8 @@
   .card > .img-container > img {
     border-radius: 30px;
     margin-top: 20px;
-    height: 80%;
-    width: 60%
+    height: 5 em;
+    width: 100%;
   }
   .card > .img-container:hover {
     background-color: rgb(2, 52, 85);

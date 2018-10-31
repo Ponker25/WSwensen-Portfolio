@@ -1,7 +1,7 @@
 [
       {
         "name": "Rent Keeper",
-        "image": "../public/images/RentKeeper.PNG",
+        "image": "RentKeeper.PNG",
         "link": "www.rentkeeper.net",
         "github": "https://github.com/Project3UofU/rent_app/tree/master/rent_app",
         "tech": [
@@ -27,7 +27,7 @@
       },
       {
         "name": "NFL Mascot Clicky Game",
-        "image": "/public/images/ClickyGame.PNG",
+        "image": "Clicky-Game.PNG",
         "link": "https://ponker25.github.io/Week-19-React-Clicky-Game/.",
         "github": "https://github.com/Ponker25/Week-19-React-Clicky-Game.git",
         "tech": [
@@ -37,7 +37,7 @@
       },
       {
         "name": "New York Times Scraper",
-        "image": "/public/images/NewYorkTimes-Scraper.PNG",
+        "image": "NewYorkTimes-Scraper.PNG",
         "link": "https://glacial-river-86264.herokuapp.com/",
         "github": "https://github.com/Ponker25/Week-18-Mongo-Mongoose.git",
         "tech": [
@@ -52,7 +52,7 @@
       },
       {
         "name": "Burger Mania",
-        "image": "/public/images/Burger-Mania.PNG",
+        "image": "Burger-Mania.PNG",
         "link": "https://sheltered-eyrie-46497.herokuapp.com/",
         "github": "https://github.com/Ponker25/Week-14-burgers.git",
         "tech": [
@@ -62,7 +62,7 @@
       },
       {
         "name": "Crystal Collector",
-        "image": "/public/images/Crystal-Collector.PNG",
+        "image": "Crystal-Collector.PNG",
         "link": "https://ponker25.github.io/crystalCollector/.",
         "github": "https://github.com/Ponker25/crystalCollector.git",
         "tech": [
@@ -72,7 +72,7 @@
       },
       {
         "name": "Bamazon",
-        "image": "/public/images/Bamazon.PNG",
+        "image": "Bamazon.PNG",
         "link": "",
         "github": "https://github.com/Ponker25/Week12-bamazon.git",
         "tech": [
@@ -82,7 +82,7 @@
       },
       {
         "name": "Bond Trivia Game",
-        "image": "/public/images/Bond-Trivia.PNG",
+        "image": "Bond-Trivia.PNG",
         "link": "https://ponker25.github.io/TriviaGame/",
         "github": "https://github.com/Ponker25/TriviaGame.git",
         "tech": [
@@ -92,7 +92,7 @@
       },
       {
         "name": "Friend Finder",
-        "image": "/public/images/FriendFinder.PNG",
+        "image": "FriendFinder.PNG",
         "link": "https://shielded-spire-66212.herokuapp.com/",
         "github": "https://github.com/Ponker25/Week-13-FriendFinder.git",
         "tech": [
@@ -104,7 +104,7 @@
       },
       {
         "name": "Commedian Giphy Search",
-        "image": "/public/images/Giphy-Search.PNG",
+        "image": "Giphy-Search.PNG",
         "link": "https://ponker25.github.io/giphyAPI/",
         "github": "https://github.com/Ponker25/giphyAPI.git",
         "tech": [
@@ -116,7 +116,7 @@
       },
       {
         "name": "Psychic Game",
-        "image": "/public/images/Psychic-Game.PNG",
+        "image": "Psychic-Game.PNG",
         "link": "https://ponker25.github.io/Psychic-Game/",
         "github": "https://github.com/Ponker25/Psychic-Game.git",
         "tech": [
@@ -126,7 +126,7 @@
       },
       {
         "name": "Weather Box",
-        "image": "/public/images/Weather-Box.PNG",
+        "image": "Weather-Box.PNG",
         "link": "https://tubashawn.github.io/weatherBox/",
         "github": "https://github.com/tubashawn/weatherBox.git",
         "tech": [
@@ -136,7 +136,7 @@
       },
       {
         "name": "Train Time",
-        "image": "/public/images/TrainTime.PNG",
+        "image": "TrainTime.PNG",
         "link": "https://ponker25.github.io/trainSchedule/",
         "github": "https://github.com/Ponker25/trainSchedule.git",
         "tech": [
