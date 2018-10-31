@@ -42,7 +42,7 @@
   }
   .bottom-name {
     float: left;
-    background: #22524f;
+    /* background: #22524f; */
     color: white;
     font-size: 26px;
     padding: 10px;
