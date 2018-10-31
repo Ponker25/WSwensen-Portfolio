@@ -1,10 +1,10 @@
 .card {
     border-radius: 40px;
-    height: 9em;
+    height: 11em;
     margin: 1rem;
     position: relative;
     display: inline-block;
-    width: 200px;
+    width: 300px;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
     text-align: left;
   }
@@ -23,8 +23,8 @@
   .card > .img-container > img {
     border-radius: 30px;
     margin-top: 20px;
-    height: 5 em;
-    width: 100%;
+    /* height: 10 em; */
+    width: 90%;
   }
   .card > .img-container:hover {
     background-color: rgb(2, 52, 85);
