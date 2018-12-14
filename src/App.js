@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 // import Navbar from "./components/Navbar";
-// import AboutMe from "./components/AboutMe";
+import AboutMe from "./components/AboutMe";
 // import Wrapper from "./components/Wrapper";
 import Footer from "./components/Footer";
 import PortfolioCard from "./components/PortfolioCard";
@@ -21,7 +21,7 @@ class App extends Component {
         <div className="container">
           <div className="row">
             <div className="col s12">
-              {/* <AboutMe /> */}
+              <AboutMe />
             </div>
           </div>
           <div className="row">
