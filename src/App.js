@@ -16,12 +16,14 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1>William Swensen</h1>
+          <p>William Swensen</p>
         </header>
         <div className="container">
           <div className="row">
             <div className="col s12">
+              <div className="bio">
               <AboutMe />
+              </div>
             </div>
           </div>
           <div className="row">

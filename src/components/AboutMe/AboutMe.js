@@ -10,10 +10,6 @@ const AboutMe = props => (
         <p>
             I completed a 24 week full-stack coding bootcamp through the University of Utah working with technologies like Node, Javascript, ReactJS, SQL, MongoDB and more...  
         </p>
-
-        <div className="portfolioHeader">
-        <h3>PORTFOLIO</h3>
-        </div>
     </aboutMe> 
 );
 

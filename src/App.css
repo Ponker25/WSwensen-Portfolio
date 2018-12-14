@@ -1,4 +1,5 @@
 body{
+  /* background-image: blic/images/code.jpg"); */
   background-color: rgb(226, 226, 220);
   background-attachment: fixed;
   background-size: 120%;
@@ -6,7 +7,7 @@ body{
 
 .App {
   text-align: center;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: "Arial Black", Gadget, sans-serif;
   color:rgb(238, 228, 228)
 /* font-family: 'Dosis', sans-serif; */
 }
@@ -14,9 +15,9 @@ body{
 .App-header {
   background-color: #222;
   height: 150px;
-  padding: 20px;
+  padding: 10px;
   color: white;
-  font-size: 40px;
+  font-size: 70px;
 }
 
 .App-title {
@@ -27,17 +28,16 @@ body{
   font-size: large;
 }
 .bio{
-  font-size:2.5em;
+  margin: 24px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  
   background-color: rgba(48, 46, 46, 0.431);
-  padding:1em;
+  padding:20px;
 }
 .center{
   height: 100%;
   display: flex;
   flex-flow: row wrap;
-  padding: 25px 0 50px;
+  /* padding: 25px 0 50px; */
   justify-content: space-around;
   align-content: flex-start;
 }
