@@ -4,6 +4,7 @@ import AboutMe from "./components/AboutMe";
 // import Wrapper from "./components/Wrapper";
 import Footer from "./components/Footer";
 import PortfolioCard from "./components/PortfolioCard";
+import BioPic from "./components/BioPic";
 
 import './App.css';
 import itemsOfWork from "./portfolio.json";
@@ -16,7 +17,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <p>William Swensen</p>
+          <BioPic /><p>William Swensen</p>
         </header>
         <div className="container">
           <div className="row">

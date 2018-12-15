@@ -1,5 +1,5 @@
 body{
-  /* background-image: blic/images/code.jpg"); */
+  /* background-image: url('../public/images/code.jpg'); */
   background-color: rgb(226, 226, 220);
   background-attachment: fixed;
   background-size: 120%;
@@ -29,9 +29,11 @@ body{
 }
 .bio{
   margin: 24px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  background-color: rgba(48, 46, 46, 0.431);
+  font-family: "Arial Black", Gadget, sans-serif;
+  background: rgba(48, 46, 46, .731);
   padding:20px;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px rgb(75, 73, 73), 2px 3px 6px rgb(75, 73, 73);
 }
 .center{
   height: 100%;
