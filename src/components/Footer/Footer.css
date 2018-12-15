@@ -4,7 +4,7 @@
     bottom: 0;
     width: 100%;
     background: #666666;
-    height: 3.3em;
+    height: 3.5em;
     color: white;
     text-align: center;
     border: #4aaaa5;
@@ -45,7 +45,8 @@
     /* background: #22524f; */
     color: white;
     font-size: 26px;
-    padding: 10px;
+    padding: 5px;
+    margin-left: 7px;
   }
   .bottom-name:hover {
     -webkit-transform: scale(1.1);

@@ -1,24 +1,26 @@
 nav.navbar.navbar-default {
-    margin-bottom: 0;
-    /* padding:10px; */
-    background: rgb(2, 52, 85);
+  background-color: rgb(27, 26, 26, .975);
+  height: 2em;
+  color: white;
+  font-size: 70px;
+  /* text-align: center; */
+  /* width: 100%; */
     }
   
   .navbar-brand {
-    font-size: 30px;
-    margin-left: 50px;
-    position: aboslute;
-    display: inline-block;
+    font-size: 60px;
+    /* margin-left: 50px; */
+    /* text-align: center; */
+    /* position: aboslute; */
+    /* display: inline-block; */
     color: white;
   }
   
   .portfolio {
-    font-size: 17px;
+    /* font-size: 17px; */
     /* color: white; */
-    padding: 1px;
+    /* padding: 1px; */
     /* height: 100%; */
-    text-align: center;
-    background: lightgray;
-    height: 100%;
-    width: 100%;
+    /* text-align: center; */
+    /* width: 100%; */
   }
