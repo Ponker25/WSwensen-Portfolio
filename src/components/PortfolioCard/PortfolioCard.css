@@ -9,7 +9,7 @@
     text-align: left;
   }
   
-  .card > .img-container {
+  .img-container {
     border-radius: 10px;
     height: 100%;
     overflow: hidden;
@@ -23,6 +23,7 @@
   .card > .img-container > img {
     border-radius: 20px;
     /* margin: 10px; */
+    padding: 10px;
     /* height: 10 em; */
     width: 100%;
   }

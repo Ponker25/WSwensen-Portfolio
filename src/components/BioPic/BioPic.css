@@ -1,11 +1,6 @@
-img{
-    float: left;
-    width: 130px;
-    /* width: 9%; */
+.bioPic {
+    float: right;
+    height: 110px;
     border-radius: 40px;
-    padding: 20px;
-    /* margin-bottom: 100px; */
-    border: 5px white;
-    /* box-shadow: 0 3px 6px #999, 0 3px 6px #999; */
-    /* opacity: .9; */
+    margin-right: 30px;
 }

@@ -20,13 +20,9 @@ class App extends Component {
           <BioPic /><p>William Swensen</p>
         </header>
         <div className="container">
-          <div className="row">
-            <div className="col s12">
               <div className="bio">
               <AboutMe />
               </div>
-            </div>
-          </div>
           <div className="row">
             <div className="col s12 center">
               <div>
