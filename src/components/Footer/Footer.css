@@ -54,3 +54,7 @@
     -o-transform: scale(1.1);
     color: white;
   }
+
+  @media screen and (max-width: 600px) {
+    
+  }

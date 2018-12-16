@@ -33,3 +33,16 @@
     -moz-transform: scale(1.1);
     -o-transform: scale(1.1);
   }
+
+  @media screen and (max-width: 600px) {
+    .card {
+      border-radius: 10px;
+      height: 11em;
+      margin: .5rem;
+      position: relative;
+      /* display: inline-block; */
+      width: 300px;
+      box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+      text-align: left;
+    }
+  }
