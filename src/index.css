@@ -2,7 +2,7 @@ body {
   background-color:rgb(170, 165, 165);
   background-image: url("./backgroundImages/porfolioImage.png");
   background-attachment: fixed;
-  background-size: 130%;
+  background-size: 120%;
   margin: 0;
   padding: 0;
 }
