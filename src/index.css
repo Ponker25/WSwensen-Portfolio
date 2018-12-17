@@ -1,8 +1,8 @@
 body {
   background-color:rgb(170, 165, 165);
-  background-image: url("https://www.digitalartsonline.co.uk/cmsdata/features/3641812/istock-471243406-portfolio-header.jpg");
+  background-image: url("./backgroundImages/porfolioImage.png");
   background-attachment: fixed;
-  background-size: 120%;
+  background-size: 130%;
   margin: 0;
   padding: 0;
 }

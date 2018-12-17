@@ -54,8 +54,10 @@
 
 @media only screen and (max-width: 825px) {
   body{
-    background-image: url("");
+    background-image: url("./backgroundImages/porfolioImage.png");
     background-color:rgb(170, 165, 165);
+    background-attachment: fixed;
+    background-size: 165%;
   }
   .App-header {
     background-color: rgb(27, 26, 26, .975);
@@ -68,8 +70,10 @@
 
 @media only screen and (max-width: 768px) {
   body{
-    background-image: url("");
+    background-image: url("./backgroundImages/porfolioImage.png");
     background-color:rgb(170, 165, 165);
+    background-attachment: fixed;
+    background-size: 185%;
   }
   .App-header {
     background-color: rgb(27, 26, 26, .975);
@@ -94,8 +98,38 @@
 
 @media screen and (max-width: 600px) {
   body{
-    background-image: url("");
+    background-image: url("./backgroundImages/grey_wash_wall.png");
     background-color:rgb(170, 165, 165);
+    background-attachment: fixed;
+    background-size: 185%;
+  }
+  .App-header {
+    background-color: rgb(27, 26, 26, .975);
+    height: 2em;
+    padding: 5px;
+    color: white;
+    font-size: 30px;
+  }
+  .bio{
+    font-size: 14px;
+    text-align: left;
+    width: 90%;
+    color: white;
+    margin: 24px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    background: rgba(48, 46, 46, .731);
+    padding:20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px rgb(75, 73, 73), 2px 3px 6px rgb(75, 73, 73);
+  }
+}
+
+@media screen and (max-width: 599px) {
+  body{
+    background-image: url("./backgroundImages/porfolioImage.png");
+    background-color:rgb(170, 165, 165);
+    background-attachment: fixed;
+    background-size: 275%;
   }
   .App-header {
     background-color: rgb(27, 26, 26, .975);

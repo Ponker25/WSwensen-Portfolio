@@ -8,11 +8,13 @@ const PortfolioCard = props => (
       value={props.id}
       onClick={props.github}
       >
-      <img class="card-img-top" alt={props.name} src={window.location + `images/${props.image}`} />
+      <img alt={props.name} src={window.location + `images/${props.image}`} />
       
     </div>
-  
+
   </div>
 );
+
+
 
 export default PortfolioCard;
