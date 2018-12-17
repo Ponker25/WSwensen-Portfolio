@@ -34,6 +34,26 @@
     -o-transform: scale(1.1);
   }
 
+  @media only screen and (min-width: 1200px) {
+
+  }
+  
+  @media only screen and (min-width: 992px) {
+
+  }
+
+  @media only screen and (max-width: 768px) {
+    .card {
+      border-radius: 10px;
+      height: 11em;
+      margin: .75rem;
+      position: relative;
+      /* display: inline-block; */
+      width: 300px;
+      box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+      text-align: left;
+    }
+  }
   @media screen and (max-width: 600px) {
     .card {
       border-radius: 10px;
