@@ -5,10 +5,10 @@
         "link": "www.rentkeeper.net",
         "github": "https://github.com/Project3UofU/rent_app/tree/master/rent_app",
         "tech": [
-          "React",
-          "Mongoose",
-          "Express",
-          "Heroku"
+          "React, ",
+          "Mongoose, ",
+          "Express, ",
+          "Heroku, "
         ],
         "description": "Group Project. A landlord management app, to collect data from properties, and communicate with tenants."
       },
@@ -18,9 +18,9 @@
         "link": "https://infinite-lowlands-27810.herokuapp.com/",
         "github": "https://github.com/MCPolichette/Welcome2MyHome",
         "tech": [
-          "HandleBars",
-          "QR-Generators",
-          "SQL",
+          "HandleBars, ",
+          "QR_Generators, ",
+          "SQL, ",
           "Heroku"
         ],
         "description": "Group Project. An app for homeowners to share basic information with house guests, sitters, and other visitors."
@@ -41,11 +41,10 @@
         "link": "https://glacial-river-86264.herokuapp.com/",
         "github": "https://github.com/Ponker25/Week-18-Mongo-Mongoose.git",
         "tech": [
-          "MongoDB",
-          "Mongoose",
-          "Node.js",
-          "Handelbars",
-          "express",
+          "MongoDB, ",
+          "Node.js, ",
+          "Handelbars, ",
+          "express, ",
           "Bootstrap"
         ],
         "description": "A New York Times Scraper, used to scrape the latest news articles from the New York Times"
@@ -96,8 +95,8 @@
         "link": "https://shielded-spire-66212.herokuapp.com/",
         "github": "https://github.com/Ponker25/Week-13-FriendFinder.git",
         "tech": [
-          "Node",
-          "Bootstrap",
+          "Node, ",
+          "Bootstrap, ",
           "Express"
         ],
         "description": "A Friend Finder App Built Using Express!"
@@ -108,8 +107,8 @@
         "link": "https://ponker25.github.io/giphyAPI/",
         "github": "https://github.com/Ponker25/giphyAPI.git",
         "tech": [
-          "Node",
-          "Bootstrap",
+          "Node, ",
+          "Bootstrap, ",
           "Express"
         ],
         "description": "Giphy's API"

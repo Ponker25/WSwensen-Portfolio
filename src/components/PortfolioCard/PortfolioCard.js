@@ -13,9 +13,18 @@ const PortfolioCard = props => (
           value={props.id}
           onClick={props.github} href={props.link}
           >
-        <p> 
+        <h5> 
           {props.name}
+        </h5>
+        <p>
+          Tech: {props.tech}
         </p>
+        <li>
+          <a href={props.github}>Github Repository</a>
+        </li>
+        <li>
+        <a href={props.link}>Link to Project</a>
+        </li>
       </div>
     </div>
   </div>

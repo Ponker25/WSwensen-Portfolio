@@ -69,7 +69,7 @@
   } 
 
   .flip-card-back {
-    background-color: dodgerblue;
+    background-color:rgba(48, 46, 46, 0.89);
     color: white;
     transform: rotateY(180deg);
     padding: 10px;
@@ -84,7 +84,7 @@
   }
 
   @media only screen and (max-width: 768px) {
-    .card {
+    .flip-card {
       border-radius: 10px;
       height: 11em;
       margin: .75rem;
@@ -96,7 +96,7 @@
     }
   }
   @media screen and (max-width: 600px) {
-    .card {
+    .flip-card {
       border-radius: 10px;
       height: 11em;
       margin: .5rem;
