@@ -6,7 +6,7 @@ const PortfolioCard = props => (
   <div className="flip-card">
     <div className="flip-card-inner" alt={props.name}>
       <div className="flip-card-front" id={props.id}> 
-        <img alt={props.name} src={window.location + `images/${props.image}`} />  
+        <img className="card-image" alt={props.name} src={window.location + `images/${props.image}`} />  
         </div> 
           <div className="flip-card-back"id={props.id}
           alt={props.name}
