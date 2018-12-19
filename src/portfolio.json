@@ -1,7 +1,7 @@
 [
       {
         "name": "Rent Keeper",
-        "image": "RentKeeper.png",
+        "image": "RentKeeper.PNG",
         "link": "www.rentkeeper.net",
         "github": "https://github.com/Project3UofU/rent_app/tree/master/rent_app",
         "tech": [
@@ -62,7 +62,7 @@
       },
       {
         "name": "Crystal Collector",
-        "image": "Crystal-Collector.png",
+        "image": "Crystal-Collector.PNG",
         "link": "https://ponker25.github.io/crystalCollector/.",
         "github": "https://github.com/Ponker25/crystalCollector.git",
         "tech": [
@@ -82,7 +82,7 @@
       },
       {
         "name": "Bond Trivia Game",
-        "image": "Bond-Trivia.png",
+        "image": "Bond-Trivia.PNG",
         "link": "https://ponker25.github.io/TriviaGame/",
         "github": "https://github.com/Ponker25/TriviaGame.git",
         "tech": [
@@ -92,7 +92,7 @@
       },
       {
         "name": "Friend Finder",
-        "image": "FriendFinder.png",
+        "image": "FriendFinder.PNG",
         "link": "https://shielded-spire-66212.herokuapp.com/",
         "github": "https://github.com/Ponker25/Week-13-FriendFinder.git",
         "tech": [
@@ -104,7 +104,7 @@
       },
       {
         "name": "Commedian Giphy Search",
-        "image": "Giphy-Search.png",
+        "image": "Giphy-Search.PNG",
         "link": "https://ponker25.github.io/giphyAPI/",
         "github": "https://github.com/Ponker25/giphyAPI.git",
         "tech": [
@@ -126,7 +126,7 @@
       },
       {
         "name": "Weather Box",
-        "image": "Weather-Box.png",
+        "image": "Weather-Box.PNG",
         "link": "https://tubashawn.github.io/weatherBox/",
         "github": "https://github.com/tubashawn/weatherBox.git",
         "tech": [
@@ -136,7 +136,7 @@
       },
       {
         "name": "Train Time",
-        "image": "TrainTime.png",
+        "image": "TrainTime.PNG",
         "link": "https://ponker25.github.io/trainSchedule/",
         "github": "https://github.com/Ponker25/trainSchedule.git",
         "tech": [
