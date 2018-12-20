@@ -1,4 +1,4 @@
-[Hosted Portfolio](http://www.william-swensen.com)
+[www.william-swensen.com](http://www.william-swensen.com)
 
 ![Portfolio](/public/images/screenshot.png)
 
