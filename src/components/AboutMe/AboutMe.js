@@ -4,11 +4,21 @@ import "./AboutMe.css";
 
 const AboutMe = props => (
     <aboutMe className="aboutMe">
+    <h1 id="aboutMe">
+        About Me
+    </h1>
         <p>
-            I am a Junior Web Developer able to build a sophisticated full-stack website with full database backend all the way from mockup to rollout. Adept at working with diverse teams to implement projects.
+        As a web developer, I have built dynamic web applications utilizing HTML5, CSS3, JavaScript, jQuery, AJAX,  
+        JSON, RESTful APIs, Bootstrap, Handlebars.js, Firebase, Node.js, Express.js, React.js, MongoDB, MySQL, 
+        Sequelize, MVC, Heroku, Github and more... 
         </p>
         <p>
-            I completed a 24 week full-stack coding bootcamp through the University of Utah working with technologies like Node, Javascript, ReactJS, SQL, MongoDB and more...  
+        I am a thoughtful decision maker with excellent organizational and interpersonal skills, the ability to remain calm and focused 
+        during difficult situations, and a willingness to go the extra mile to accomplish objectives. I am adept at working with diverse 
+        teams as well as individually to implement projects.  
+        </p>
+        <p>
+        I am excited to continue cultivating my technical knowledge and to contribute clean intuitive code toward advancements that improve our everyday lives.
         </p>
     </aboutMe> 
 );
