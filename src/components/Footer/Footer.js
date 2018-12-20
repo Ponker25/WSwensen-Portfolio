@@ -5,7 +5,7 @@ import "./Footer.css";
 const Footer = props => (
   <footer className="pagebottom">
     <div className="bottom-center">
-      <a href="https://github.com/Ponker25">
+      <a href="https://docs.google.com/document/d/13kpBjvaP6lfgXZudlX4EgHEws3eV9cz7OuSgL0bJwXE/edit?usp=sharing">
         <div className="bottom-name">William Swensen</div>
       </a>
       <div className="bottom-nav">

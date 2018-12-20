@@ -13,6 +13,10 @@
   font-size: 70px;
   text-align: center;
 }
+.resume {
+  font-size: 12px;
+  position: in-line;
+}
 /* 
 .App-title {
   font-size: 1.5em;
