@@ -1,10 +1,10 @@
-[www.william-swensen.com](http://www.william-swensen.com)
-
 ![Portfolio](/public/images/screenshot.png)
 
 # Portfolio Built using React.js
 
 ## William A. Swensen
+
+[www.william-swensen.com](http://www.william-swensen.com)
 
 As a web developer, I have built dynamic web applications utilizing HTML5, CSS3, JavaScript, jQuery, AJAX, JSON, RESTful APIs, Bootstrap, Handlebars.js, Firebase, Node.js, Express.js, React.js, MongoDB, MySQL, Sequelize, MVC, Heroku, Github and more...
 
