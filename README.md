@@ -1,6 +1,6 @@
 [Hosted Portfolio](http://www.william-swensen.com)
 
-![Portfolio](./images/screenshot.png)
+![Portfolio](/public/images/screenshot.png)
 
 # Portfolio Built using React.js
 
