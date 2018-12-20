@@ -1,6 +1,6 @@
-[Hosted Portfolio](www.william-swensen.com)
+[Hosted Portfolio](http://www.william-swensen.com)
 
-![Portfolio] (./images/screenshot.png)
+![Portfolio](./images/screenshot.png)
 
 # Portfolio Built using React.js
 
