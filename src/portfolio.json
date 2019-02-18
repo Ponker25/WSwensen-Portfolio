@@ -26,6 +26,17 @@
         "description": "Group Project. An app for homeowners to share basic information with house guests, sitters, and other visitors."
       },
       {
+        "name": "React-Native Countdown",
+        "image": "countdownTimer2.gif",
+        "link": null,
+        "github": "https://github.com/Ponker25/reactNativeCountdown.git",
+        "tech": [
+          "React-Native, ",
+          "Moment.js "
+        ],
+        "description": "A simple app built while learning React-Native."
+      },
+      {
         "name": "NFL Mascot Clicky Game",
         "image": "Clicky-Game.png",
         "link": "https://ponker25.github.io/Week-19-React-Clicky-Game/.",
@@ -72,7 +83,7 @@
       {
         "name": "Bamazon",
         "image": "Bamazon.png",
-        "link": "",
+        "link": null,
         "github": "https://github.com/Ponker25/Week12-bamazon.git",
         "tech": [
           "Node"
@@ -129,7 +140,7 @@
         "link": "https://tubashawn.github.io/weatherBox/",
         "github": "https://github.com/tubashawn/weatherBox.git",
         "tech": [
-          ""
+          null
         ],
         "description": "A simple weather & air quality look-up application"
       },
@@ -139,7 +150,7 @@
         "link": "https://ponker25.github.io/trainSchedule/",
         "github": "https://github.com/Ponker25/trainSchedule.git",
         "tech": [
-          ""
+          null
         ],
         "description": ""
       }

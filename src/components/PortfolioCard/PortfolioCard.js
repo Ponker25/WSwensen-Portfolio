@@ -15,12 +15,12 @@ const PortfolioCard = props => (
         <p>
           Tech: {props.tech}
         </p>
-          <li>
-            <a href={props.github}>Github Repository</a>
-          </li>
-          <li>
-          <a href={props.link}>Link to Project</a>
-          </li>
+          <p>
+            <a id="flip-card-links" href={props.github}>Github Repository</a>
+          </p>
+          <p>
+          <a id="flip-card-links" href={props.link}>Link to Project</a>
+          </p>
       </div>
     </div>
   </div>
